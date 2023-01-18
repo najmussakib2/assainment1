@@ -59,10 +59,6 @@ ul li a{
     font-weight: bold;
 }
 
-ul li a:hover{
-    color: greenyellow;
-}
-
 .contend{
     width: 1200px;
     height: auto;
