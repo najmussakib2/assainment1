@@ -215,9 +215,9 @@ input{
 .email{
     border: 2px solid white;
     border-radius: 8px;
-    border-color: #FFFFFF;
     padding: 15px 40px;
     background-color: rgb(16, 6, 22);
+    color: #FFFFFF;
 }
 
     
